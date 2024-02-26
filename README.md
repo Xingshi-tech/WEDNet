@@ -16,8 +16,8 @@ This repository is the **official implementation** of the paper, "From Shadows t
 
 You can refer to the following links to download the datasets:
 
-LOL: Chen Wei, Wenjing Wang, Wenhan Yang, and Jiaying Liu. "Deep Retinex Decomposition for Low-Light Enhancement", BMVC, 2018. [[Baiduyun (extracted code: wedn)]](链接：https://pan.baidu.com/s/1whZBAKc1NVODqZ2bSEyYXA) [[Google Drive]](https://drive.google.com/file/d/1gh7-7nPonG7f4bBWLkPNAHTQHNV-HNZ4/view?usp=sharing) <br>
-LOL-v2 (the extension work): Wenhan Yang, Haofeng Huang, Wenjing Wang, Shiqi Wang, and Jiaying Liu. "Sparse Gradient Regularized Deep Retinex Network for Robust Low-Light Image Enhancement", TIP, 2021. [[Baiduyun (extracted code: wedn)]](链接：https://pan.baidu.com/s/1pn3UffJ_bOlCpNXzehq46g) [[Google Drive]](https://drive.google.com/file/d/1fu1l6irFcSJ5XrUk-JmECQzBf_k2ScYb/view?usp=sharing) <br> <br>
+LOL: Chen Wei, Wenjing Wang, Wenhan Yang, and Jiaying Liu. "Deep Retinex Decomposition for Low-Light Enhancement", BMVC, 2018. [[Baiduyun (extracted code: wedn)](链接：https://pan.baidu.com/s/1whZBAKc1NVODqZ2bSEyYXA)] [[Google Drive]](https://drive.google.com/file/d/1gh7-7nPonG7f4bBWLkPNAHTQHNV-HNZ4/view?usp=sharing) <br>
+LOL-v2 (the extension work): Wenhan Yang, Haofeng Huang, Wenjing Wang, Shiqi Wang, and Jiaying Liu. "Sparse Gradient Regularized Deep Retinex Network for Robust Low-Light Image Enhancement", TIP, 2021. [[Baiduyun (extracted code: wedn)](链接：https://pan.baidu.com/s/1pn3UffJ_bOlCpNXzehq46g)] [[Google Drive]](https://drive.google.com/file/d/1fu1l6irFcSJ5XrUk-JmECQzBf_k2ScYb/view?usp=sharing) <br> <br>
 
 ## Results
 

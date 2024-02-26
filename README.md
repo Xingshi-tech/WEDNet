@@ -36,25 +36,60 @@ The evauluation results on LOL are as follows:
 
 WEDNet does not need special configurations. Just basic environment.
 
+### Folder structure
 
+```
+├── .idea # Project configuration information
+├── images # Images for README.md display
+│   ├── lol_result.png
+│   └── network1.svg
+├── pytorch_ssim # Used to calculate SSIM
+│   └── __init__.py
+├── result # Used to save test results. 
+├── snapshots 
+│   └── best_epoch.pth # A pre-trained snapshot
+├── MyModel.py # WEDNet network
+├── Myloss.py # Loss codes
+├── README.md
+├── WaveletBlock.py # BWTA component code
+├── dataloader.py
+├── evaluate.py # evaluating code
+├── test.py # testing code
+├── train.py # training code
+├── utils.py
+```
 
+### Test:
 
+To test the model with data, You need to specify the data path `filePath` and `filePath_high` in the `test.py` file. Then run
+
+```
+python test.py
+```
+
+To obtain the evaluation results, e.g., PSNR, SSIM, LPIPS, and MAE. You need to specify the data path `enhance_path` and `highRef_path` in the `evaluate.py` file. Then run
+
+```
+python evaluate.py
+```
+
+### Train:
+
+You need to specify the data path `lowlight_images_path`,`highlight_images_path`,`val_lowlight_images_path` and `val_highlight_images_path` in the `train.py` file. Then run
+
+```
+python train.py
+```
 
 ## Citation
 
 If you find our work useful for your research, please cite our paper
 
 ```
-@inproceedings{wu2023skf,
-  title={Learning Semantic-Aware Knowledge Guidance for Low-Light Image Enhancement},
-  author={Yuhui, Wu and Chen, Pan and Guoqing, Wang and Yang, Yang and Jiwei, Wei and Chongyi, Li and Heng Tao Shen},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={},
-  year={2023}
-}
+xxxxxx
 ```
 
 ## Contact
 
-If you have any question, please feel free to contact us via wuyuhui132@gmail.com.
+If you have any question, please feel free to contact us via chenglfei392@gmail.com.
 

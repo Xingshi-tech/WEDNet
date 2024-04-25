@@ -145,8 +145,7 @@ class enhance_net_nopool(nn.Module):
             nn.Conv2d(8, 16, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=1, bias=False),
             nn.LeakyReLU()
         )
-
-        # 半小波变换
+        
         self.wb = WaveletBlock(n_feat=64, o_feat=64, kernel_size=3, reduction=16, bias=False, act=nn.PReLU())
 
     def retouch(self, x, x_r):

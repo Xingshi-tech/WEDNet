@@ -1,4 +1,5 @@
-# **From Shadows to Details: Leveraging Multi-Scale Wavelet Features for Low-Light Image Enhancement**
+# **WEDNet: A Wavelet Enhanced Detail Network for Low-Light Image Enhancement
+**
 
 xxx, xxx, xxx (names of paper)
 

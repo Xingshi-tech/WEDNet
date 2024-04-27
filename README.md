@@ -1,4 +1,4 @@
-# **WEDNet: A Wavelet Enhanced Detail Network for Low-Light Image Enhancement
+# WEDNet: A Wavelet Enhanced Detail Network for Low-Light Image Enhancement
 **
 
 xxx, xxx, xxx

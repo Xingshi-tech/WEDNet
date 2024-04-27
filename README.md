@@ -1,7 +1,7 @@
 # **WEDNet: A Wavelet Enhanced Detail Network for Low-Light Image Enhancement
 **
 
-xxx, xxx, xxx (names of paper)
+xxx, xxx, xxx
 
 xx xx
 

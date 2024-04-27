@@ -7,7 +7,7 @@ xx xx
 
 ## Introduction
 
-This repository is the **official implementation** of the paper, "From Shadows to Details: Leveraging Multi-Scale Wavelet Features for Low-Light Image Enhancement", where more implementation details are presented.
+This repository is the **official implementation** of the paper, "WEDNet: A Wavelet Enhanced Detail Network for Low-Light Image Enhancement", where more implementation details are presented.
 
 ## Overall
 

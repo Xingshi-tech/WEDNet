@@ -2,7 +2,7 @@
 
 xxx, xxx, xxx (names of paper)
 
-Yunnan University(YNU)
+xx xx
 
 ## Introduction
 
